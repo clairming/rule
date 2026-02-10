@@ -1,3 +1,4 @@
+# ===== Hong Kong Banks =====
 # TLD
 DOMAIN-SUFFIX,hsbc
 
@@ -65,3 +66,33 @@ DOMAIN-SUFFIX,hsbc.ca
 DOMAIN-SUFFIX,hsbc.co.jp
 DOMAIN-SUFFIX,hsbc.fr
 DOMAIN-SUFFIX,hsbctrinkaus.de
+
+# Bank of China (Hong Kong) 中银香港
+DOMAIN-SUFFIX,bochk.com,HK-BANK
+DOMAIN-SUFFIX,bochk.com.hk,HK-BANK
+DOMAIN-SUFFIX,boc.cn,HK-BANK
+DOMAIN-SUFFIX,bankofchina.com,HK-BANK
+
+# Hang Seng 恒生银行
+DOMAIN-SUFFIX,hangseng.com,HK-BANK
+DOMAIN-SUFFIX,hangseng.com.hk,HK-BANK
+
+# Standard Chartered Hong Kong 渣打香港
+DOMAIN-SUFFIX,sc.com,HK-BANK
+DOMAIN-SUFFIX,standardchartered.com,HK-BANK
+
+# Airstar Bank 天星银行
+DOMAIN-SUFFIX,airstarbank.com,HK-BANK
+DOMAIN-SUFFIX,airstarbank.hk,HK-BANK
+
+# Ant Bank (Hong Kong) / AlipayHK 蚂蚁银行
+DOMAIN-SUFFIX,antbank.hk,HK-BANK
+DOMAIN-SUFFIX,antbank.com.hk,HK-BANK
+DOMAIN-SUFFIX,alipayhk.com,HK-BANK
+DOMAIN-SUFFIX,alipay.com.hk,HK-BANK
+DOMAIN-SUFFIX,antgroup.com,HK-BANK
+
+# ZA Bank 众安银行
+DOMAIN-SUFFIX,zabank.com,HK-BANK
+DOMAIN-SUFFIX,zabank.com.hk,HK-BANK
+DOMAIN-SUFFIX,za.group,HK-BANK
